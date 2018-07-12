@@ -1,8 +1,11 @@
 ---
 environment: staging
-classes:
-  nfs::server:
+classes:     
+  nfs::server:        
     exports:
-      - /srv/share1
+              - /srv/share1
       - /srv/share2
 parameters:
+
+
+
