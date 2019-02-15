@@ -38,3 +38,5 @@ classes:
       - /srv/share1
       - /srv/share2
 parameters:
+
+signed commit 2
