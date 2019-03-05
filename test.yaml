@@ -1,0 +1,38 @@
+awefawefsdvsdvawef
+---
+environment: staging
+classes:
+  nfs::server:
+    exports:
+      - /srv/share1
+      - /srv/share2
+environment: staging
+classes:
+  nfs::server:
+    exports:
+      - /srv/share1
+      - /srv/share2
+parameters:
+---
+environment: staging
+classes:
+  nfs::server:
+    exports:
+      - /srv/share1
+      - /srv/share2
+parameters:
+---
+environment: staging
+classes:
+  nfs::server:
+    exports:
+      - /srv/share1
+      - /srv/share2
+parameters:
+---
+environment: staging
+classes:
+  nfs::server:
+    exports:
+      - /srv/share1
+      - /srv/share2
