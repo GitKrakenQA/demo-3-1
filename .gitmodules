@@ -1,0 +1,3 @@
+[submodule "sample-lfs-repository"]
+	path = sample-lfs-repository
+	url = https://github.com/MannyGrill/sample-lfs-repository.git
